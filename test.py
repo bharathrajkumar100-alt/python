@@ -6,3 +6,6 @@ b = 5
 result = a * b
 
 print("Multiplication =", result)
+print("Multiplication =", result)
+print("Multiplication =", result)
+print("Multiplication =", result)
